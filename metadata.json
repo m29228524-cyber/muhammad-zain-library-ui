@@ -1,0 +1,6 @@
+{
+  "name": "Shaykh Muhammad Zain Digital Library",
+  "description": "Digital Islamic knowledge library preserving and organizing the extensive collection of lessons (Duruus), audio lectures, and books (Kutub) of Shaykh Muhammad Zain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
